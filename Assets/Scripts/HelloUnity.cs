@@ -38,7 +38,7 @@ public class HelloUnity : MonoBehaviour//ココは歌わなくてOKだよ！
         moji.fontSize = 128;//フォントは大きく設定だ!
         moji.alignment = TextAnchor.MiddleCenter;//文字はでっかく中央に!
         
-        //間奏の間に[／*][*／]のコメントアウトを消してね！
+        //間奏の間に[／*][*／]のコメントアウトを消してね！//ココは歌わなくてOKだよ！
         ///*
         moji.rectTransform.SetParent(gameObject.transform);
         moji.rectTransform.localPosition =  Vector3.zero;
