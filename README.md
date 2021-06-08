@@ -7,13 +7,13 @@ Unity2019以降で実行できるようアレンジした二次創作、『Hello
 
 ## このプロジェクトの説明
 このプロジェクトは、Unity-chan!公式様で頒布されている『キャラクターソング・アルバム Vol.1「UNITE IN THE SKY」』の収録曲、
-『HelloUnity.js』について、JavaScriptで作成された歌詞を、C#スクリプトで記述しなおしたものです。
+『HelloUnity.js』について、JavaScriptで作成された歌詞を、C#スクリプトで記述しなおし、Unity2019以降で実行できるようにしたものです。
 
 記述しなおすにあたり、
 
-・歌詞をC#で再翻訳した『HelloUnity.cs』と、
+・原曲ほぼそのままの歌詞をC#で再翻訳した『HelloUnity.cs』と、
 
-・『幻の2番 onEnable』という体で追記部分をonEnableに追加した、『HelloUnity_longVer.cs』
+・『幻の2番 onEnable』という体で変更部分をonEnableに追加した、『HelloUnity_longVer.cs』
 
 の2バージョンがあります。
 
@@ -31,15 +31,16 @@ Unity2019以降のUnity実行環境にて、このUnityプロジェクトを開�
 　・Prefubs：HelloUnityとHelloUnity_longVerがすでについているPrefubが格納されています。
  
 　　　　　　 実行結果はどちらもほぼ変わりません。お好きな方をSceneに設置してゲームを実行すると、
-       
-       
- 　　　　　　HelloUnity.csの実行結果が確認できます。
+ 
+ 　　　　　　 HelloUnity.csの実行結果が確認できます。
 
 　・Scenes：SampleSceneには、すでにHelloUnity.csがついているPrefubが置いてあります。
  
 　　　　　　ゲームを実行すると、HelloUnity.csの実行結果が確認できます。
 
 　・Scripts:『HelloUnity.cs』と『HelloUnity_longVer.cs』の2種類のスクリプトが入っています。
+ 
+  　　　　　『HelloUnity.cs』のみ、原曲の歌詞以外の追記部分をコメントアウトしていますので、該当部分を間奏の隙にコメントを削除してください。
  
  　　　　　　どちらも原曲歌詞に合わせてコメントが入っています。コメント通り好きに歌って下さい。
        
