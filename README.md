@@ -1,6 +1,7 @@
 # HelloUnity.cs
 Unity-chan!様の『HelloUnity.js』という曲の内容を、
-JavaScriptのコードからをC#にアレンジした二次創作、『HelloUnity.cs』です
+JavaScriptのコードからをC#に記述しなおし、
+Unity2019以降で実行できるようアレンジした二次創作、『HelloUnity.cs』です
 
 ![demo](https://user-images.githubusercontent.com/33057576/121231497-70b8af00-c8cb-11eb-8eba-ccff80baecc4.gif)
 
