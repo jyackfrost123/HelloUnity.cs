@@ -58,7 +58,7 @@ Unity2019以降のUnity実行環境にて、このUnityプロジェクトを開�
 
 ◇ ファイル構成 ◇
 
-　・Prefubs：HelloUnityとHellowUnity_longVerがすでについているPrefubが格納されています。
+　・Prefubs：HelloUnityとHelloUnity_longVerがすでについているPrefubが格納されています。
 　　　　　　 実行結果はどちらもほぼ変わりません。お好きな方をSceneに設置してゲームを実行すると、
 　　　　　　 HelloUnity.csの実行結果が確認できます。
 
