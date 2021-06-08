@@ -2,7 +2,7 @@
 Unity-chan!様の『HelloUnity.js』という曲の二次創作、
 JavaScriptの原曲をC#にアレンジした『HelloUnity.cs』です
 
-![demo](https://raw.github.com/wiki/jyackfrost123/HelloUnity.cs/images/HelloUnityResult.gif)
+![demo](https://user-images.githubusercontent.com/33057576/121231497-70b8af00-c8cb-11eb-8eba-ccff80baecc4.gif)
 
 ## このプロジェクトの説明
 このプロジェクトは、Unity-chan!公式様で頒布されている『キャラクターソング・アルバム Vol.1「UNITE IN THE SKY」』の収録曲、
