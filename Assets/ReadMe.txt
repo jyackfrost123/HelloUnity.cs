@@ -76,8 +76,11 @@ Unity2019以降のUnity実行環境にて、このUnityプロジェクトを開�
 
 
 ◇ 免責 ◇
-本ソースコードは、Unity-chan!公式様の二次創作として、
-ユニティ・テクノロジーズ・ジャパン株式会社様のユニティちゃんライセンス条項を確認し、
+
+The source code is licensed MIT. The website content is licensed CC BY 4.0,see LICENSE.
+
+また、本ソースコードは、Unity-chan!公式様の二次創作として、
+ユニティ・テクノロジーズ・ジャパン株式会社様のユニティちゃんライセンス条項(https://unity-chan.com/contents/guideline/)を確認し、
 同意したうえで作成しています。
 もしこのプログラムが他人の権利・名誉を棄損する場合や、
 ユニティ・テクノロジーズ・ジャパン株式会社様やUnity-chan!公式様を傷つけるようなことがある際には、

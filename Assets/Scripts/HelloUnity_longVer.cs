@@ -1,4 +1,7 @@
 ﻿//© Unity Technologies Japan/UCL
+//
+//Copyright (c) 2021 jyackfrost123
+//This software is released under the MIT License, see LICENSE.
 
 // -------------------------------------------------------------
 //空のSceneにHello.Unity.csを置いて世界<ゲーム>をスタートしてね！
